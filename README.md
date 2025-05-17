@@ -1,20 +1,4 @@
-## Hi there, I'm Dave 👋
-- 🔭 I’m currently working on:
-  - Professionally: Leading the [HeroDevs EOL support for Microsoft .NET](https://www.herodevs.com/support/dot-net-nes) by creating secure/patched versions of the .NET Runtime, ASP.NET Core, SDK, EF Core, etc.
-  - Personal side-projects:
-    - [xml-equivalence](https://github.com/udlose/xml-equivalency/) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (coming soon)
-    - [pool-tracker](https://github.com/Black-Box-Solutions/pool-tracker): a cross-platform mobile app to track pool chemistry built using .NET MAUI 9
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/daveblack)
-- 😄 Pronouns: he/him
-- ⚡ Fun facts:
-  - I've climbed Mt. Kilimanjaro
-  - In college I worked as a DJ "hot-mixing" in night clubs
-  - I used to drag race my 625hp Mitsubishi 3000GT VR4
 
-[![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats#gh-dark-mode-only)
-[![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&count_private=true&theme=dark)](https://github.com/udlose/github-readme-stats#gh-light-mode-only)
-
-[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267/dave-black)
 <!--
 **udlose/udlose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +13,89 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I'm Dave (he/him) 👋
+- 🔭 I’m currently working on:
+  - _Professionally_: Leading the .NET Team at [HeroDevs End Of Life support for the Microsoft .NET Stack](https://www.herodevs.com/support/dot-net-nes) by creating secure/patched versions of the .NET Runtime, ASP.NET Core, SDK, EF Core, etc.
+  - _Personal side-projects_:
+    - [xml-equivalence](https://github.com/udlose/xml-equivalency/) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
+    - [pool-tracker](https://github.com/Black-Box-Solutions/pool-tracker): a cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
+- 📫 How to reach me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
+- ⚡ Fun facts:
+  - I love writing code because I'm constantly learning
+  - I try to challenge myself by stepping outside my comfort zone
+  - I've climbed Mt. Kilimanjaro
+  - In college I worked as a DJ "hot-mixing" in night clubs
+  - I used to drag race my 625hp Mitsubishi 3000GT VR4
+
+  ## Specialties
+  ![Memory Dump Analysis](https://img.shields.io/badge/Memory_Dump_Analysis-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Debugging](https://img.shields.io/badge/Debugging-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Application Scalability](https://img.shields.io/badge/Application_Scalability-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
+  ## Languages and Tools
+  ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+  ![TSQL](https://img.shields.io/badge/T-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![XML](https://img.shields.io/badge/XML-FF7F50?style=flat&logo=xml&logoColor=white) 
+  ![XAML](https://img.shields.io/badge/XAML-4B8BBE?style=flat&logo=xaml&logoColor=white)
+  ![YAML](https://img.shields.io/badge/YAML-1F425F?style=flat&logo=yaml&logoColor=white)
+  
+  ## Frameworks and Libraries
+  ![Common Language Runtime](https://img.shields.io/badge/CLR-512BD4?style=flat&logo=.net&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+  ![.NET Runtime](https://img.shields.io/badge/.NET_Runtime-512BD4?style=flat&logo=.net&logoColor=white)
+  ![.NET SDK](https://img.shields.io/badge/.NET_SDK-512BD4?style=flat&logo=.net&logoColor=white)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=asp.net&logoColor=white)
+  ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=.net&logoColor=white)
+  ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=.net&logoColor=white)
+  ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=.net&logoColor=white)
+  ![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=flat&logo=.net&logoColor=white)
+  ![WinUI](https://img.shields.io/badge/WinUI-512BD4?style=flat&logo=.net&logoColor=white)
+  ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white)
+  ![UWP](https://img.shields.io/badge/UWP-512BD4?style=flat&logo=.net&logoColor=white)
+  ![Polly](https://img.shields.io/badge/Polly-512BD4?style=flat&logo=.net&logoColor=white)
+
+  ## Databases
+  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+  ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+  ## Cloud Services
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=azure-devops&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+  
+  ## Tooling
+  ![CLI](https://img.shields.io/badge/.NET_CLI-512BD4?style=flat&logo=.net&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Linqpad](https://img.shields.io/badge/Linqpad-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![NDepend](https://img.shields.io/badge/NDepend-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Syncfusion](https://img.shields.io/badge/Syncfusion-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+  ![Snyk](https://img.shields.io/badge/Snyk-4E9BCD?style=flat&logo=snyk&logoColor=white)
+  ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Windbg](https://img.shields.io/badge/Windbg-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![XPerf](https://img.shields.io/badge/XPerf-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
+  [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats#gh-dark-mode-only)
+  
+  [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&count_private=true&include_all_commits=true&theme=light#gh-light-mode-only)](https://github.com/udlose/github-readme-stats#gh-light-mode-only)
+
+  [![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267/dave-black)
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
