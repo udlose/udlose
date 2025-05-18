@@ -109,4 +109,9 @@ Here are some ideas to get you started:
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Dave Black for Search or List all open PRs across multiple specific repositories](https://stackoverflow.com/questions/52045709/search-or-list-all-open-prs-across-multiple-specific-repositories/79590967#79590967)
+- [Answer by Dave Black for XML Canonicalization lexicographical ordering](https://stackoverflow.com/questions/38769644/xml-canonicalization-lexicographical-ordering/79446723#79446723)
+- [Canonical XML 2.0 with Namespace PrefixRewrite](https://stackoverflow.com/questions/79446392/canonical-xml-2-0-with-namespace-prefixrewrite)
+- [Answer by Dave Black for c# linq xml how to use two prefixes for same namespace](https://stackoverflow.com/questions/5846201/c-sharp-linq-xml-how-to-use-two-prefixes-for-same-namespace/79353317#79353317)
+- [Answer by Dave Black for is there CLR profiler for .NET 4.0 around?](https://stackoverflow.com/questions/4351391/is-there-clr-profiler-for-net-4-0-around/79306436#79306436)
 <!-- STACKOVERFLOW:END -->
