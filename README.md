@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Dave (he/him) 👋
+## Hi there, I'm Dave 👋
 - 🔭 I’m currently working on:
   - _Professionally_: Leading the .NET Team at [HeroDevs End Of Life support for the Microsoft .NET Stack](https://www.herodevs.com/support/dot-net-nes) by creating secure/patched versions of the .NET Runtime, ASP.NET Core, SDK, EF Core, etc.
   - _Personal side-projects_:
