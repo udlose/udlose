@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   - _Personal side-projects_:
     - [xml-equivalence](https://github.com/udlose/xml-equivalency/) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
     - [pool-tracker](https://github.com/Black-Box-Solutions/pool-tracker): a cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
-- 📫 How to reach me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
+- [![Blogger](https://img.shields.io/badge/Blog-5C2D91?style=flat&logo=visual-studio&logoColor=white): The Black Box of .NET](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET.
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
 - ⚡ Fun facts:
   - I love writing code because I'm constantly learning
   - I try to challenge myself by stepping outside my comfort zone
@@ -94,7 +95,7 @@ Here are some ideas to get you started:
   
   [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&count_private=true&include_all_commits=true&theme=light#gh-light-mode-only)](https://github.com/udlose/github-readme-stats#gh-light-mode-only)
 
-  [![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267/dave-black)
+  [![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/feeds/user/251267)
 
 
 ## Blog posts
