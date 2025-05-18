@@ -100,4 +100,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mocking HttpClient in Unit Tests](http://dave-black.blogspot.com/2025/02/mocking-httpclient-in-unit-tests.html)
+- [Benchmark to measure performance difference between calling overridden methods on: open vs sealed classes](https://gist.github.com/udlose/712f7c157e10c742d870934bba53c2a3)
+- [.NET 9.0 Debugging Issue - F10 Step Over executes multiple steps](http://dave-black.blogspot.com/2025/01/net-90-debugging-issue-f10-step-over.html)
+- [What is LINQ to Xml Atomization?](http://dave-black.blogspot.com/2025/01/what-is-linq-to-xml-atomization.html)
+- [Linq to Xml - XName Atomization Benchmark](https://gist.github.com/udlose/1a5b0338c5fa4e83ec71fb22197396cf)
 <!-- BLOG-POST-LIST:END -->
