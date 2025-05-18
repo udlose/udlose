@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   
   [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&count_private=true&include_all_commits=true&theme=light#gh-light-mode-only)](https://github.com/udlose/github-readme-stats#gh-light-mode-only)
 
-  [![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/feeds/user/251267)
+  [![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267)
 
 
 ## Blog posts
@@ -106,3 +106,7 @@ Here are some ideas to get you started:
 - [What is LINQ to Xml Atomization?](http://dave-black.blogspot.com/2025/01/what-is-linq-to-xml-atomization.html)
 - [Linq to Xml - XName Atomization Benchmark](https://gist.github.com/udlose/1a5b0338c5fa4e83ec71fb22197396cf)
 <!-- BLOG-POST-LIST:END -->
+
+## StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
