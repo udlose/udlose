@@ -1,7 +1,7 @@
 name: Latest stack overflow activity
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 0 * * *' # Runs every day at 12am
   workflow_dispatch:
 permissions:
   contents: write
