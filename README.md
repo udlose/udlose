@@ -29,10 +29,12 @@ Here are some ideas to get you started:
   - I've been a DJ "hot-mixing" in night clubs
   - I used to drag race my 625hp Mitsubishi 3000GT VR4
 
-  ## Top Languages
-<!--  [![Top Langs](https://github-readme-stats-sepia-ten-71.vercel.app/api/top-langs/?username=udlose&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats) -->
+![wakatime](https://wakatime.com/share/@udlose/c2f25a7b-6a10-427a-b260-bdcb985a7cc8.svg)
+
+<!--  ## Top Languages
   [![Top Langs](https://github-readme-stats-sepia-ten-71.vercel.app/api/top-langs?username=udlose&layout=compact&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats#gh-dark-mode-only)
   [![Top Langs](https://github-readme-stats-sepia-ten-71.vercel.app/api/top-langs?username=udlose&layout=compact&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=light#gh-light-mode-only)](https://github.com/udlose/github-readme-stats#gh-light-mode-only)
+-->
 
   ## Wakatime
 <!--  [![wakatime](https://github-readme-stats-sepia-ten-71.vercel.app/api/wakatime?username=udlose&layout=compact)](https://wakatime.com/@udlose)-->
