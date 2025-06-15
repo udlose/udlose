@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - _Personal side-projects_:
     - [xml-equivalence](https://github.com/udlose/xml-equivalency/) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
     - [pool-tracker](https://github.com/Black-Box-Solutions/pool-tracker): a cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
-- [![Blogger](https://img.shields.io/badge/Blog-5C2D91?style=flat&logo=visual-studio&logoColor=white): The Black Box of .NET](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET.
+- [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET.
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
 - ⚡ Fun facts:
   - I love writing code because I'm constantly learning
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
   ![.NET Runtime](https://img.shields.io/badge/.NET_Runtime-512BD4?style=flat&logo=.net&logoColor=white)
   ![.NET SDK](https://img.shields.io/badge/.NET_SDK-512BD4?style=flat&logo=.net&logoColor=white)
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=asp.net&logoColor=white)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
   ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=.net&logoColor=white)
   ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=.net&logoColor=white)
   ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=.net&logoColor=white)
