@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - _Professionally_: Leading the .NET Team at [HeroDevs End Of Life support for the Microsoft .NET Stack](https://www.herodevs.com/support/dot-net-nes) by creating secure/patched versions of the .NET Runtime, ASP.NET Core, SDK, EF Core, etc.
   - _Personal side-projects_:
+    - [MermaidPad](https://github.com/udlose/MermaidPad/) A minimal cross-platform-ready Mermaid diagram editor built with .NET 9 + Avalonia.
     - [xml-equivalence](https://github.com/udlose/xml-equivalency/) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
     - [pool-tracker](https://github.com/Black-Box-Solutions/pool-tracker): a cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
 - [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET.
