@@ -21,8 +21,10 @@ Here are some ideas to get you started:
     - [MermaidPad](https://github.com/udlose/MermaidPad/) A minimal cross-platform-ready Mermaid diagram editor built with .NET 9 + Avalonia.
     - [xml-equivalence](https://github.com/udlose/xml-equivalency/) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
     - [pool-tracker](https://github.com/Black-Box-Solutions/pool-tracker): a cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
-- [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET.
+- [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET (when I find time)
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
+- [![Holopin.io](https://custom-icon-badges.demolab.com/badge/holopin.io-blue.svg?logo=holopin&logoColor=white)](https://holopin.io/@udlose)
+- Holopin.io Profile: [![An image of @udlose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udlose)](https://holopin.io/@udlose)
 - ⚡ Fun facts:
   - I love writing code because I'm constantly learning
   - I try to challenge myself by stepping outside my comfort zone
