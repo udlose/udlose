@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Dave 👋
 - 🔭 I’m currently working on:
-  - _Professionally_: Leading the .NET Team at [HeroDevs End Of Life support for the Microsoft .NET Stack](https://www.herodevs.com/support/dot-net-nes) by creating secure/patched versions of the .NET Runtime, ASP.NET Core, SDK, EF Core, etc.
+  - _Professionally_: Open to new opportunities as a Senior Software Engineer in the Microsoft stack.
   - _Personal side-projects_:
     - [MermaidPad](https://github.com/udlose/MermaidPad/) A minimal cross-platform-ready Mermaid diagram editor built with .NET 9 + Avalonia.
     - [xml-equivalence](https://github.com/udlose/xml-equivalency/) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
