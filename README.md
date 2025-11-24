@@ -37,11 +37,6 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats-sepia-ten-71.vercel.app/api/top-langs?username=udlose&layout=compact&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=light#gh-light-mode-only)](https://github.com/udlose/github-readme-stats#gh-light-mode-only)
 -->
 
-  ## Wakatime
-<!--  [![wakatime](https://github-readme-stats-sepia-ten-71.vercel.app/api/wakatime?username=udlose&layout=compact)](https://wakatime.com/@udlose)-->
-  [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5.svg)](https://wakatime.com/@udlose)
-  ![wakatime](https://wakatime.com/share/@udlose/c2f25a7b-6a10-427a-b260-bdcb985a7cc8.svg)
-
   ## Specialties
   ![Memory Dump Analysis](https://img.shields.io/badge/Memory_Dump_Analysis-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-5C2D91?style=flat&logo=visual-studio&logoColor=white)
@@ -125,3 +120,8 @@ Here are some ideas to get you started:
 - [Answer by Dave Black for c# linq xml how to use two prefixes for same namespace](https://stackoverflow.com/questions/5846201/c-sharp-linq-xml-how-to-use-two-prefixes-for-same-namespace/79353317#79353317)
 - [Answer by Dave Black for is there CLR profiler for .NET 4.0 around?](https://stackoverflow.com/questions/4351391/is-there-clr-profiler-for-net-4-0-around/79306436#79306436)
 <!-- STACKOVERFLOW:END -->
+
+  ## Wakatime
+<!--  [![wakatime](https://github-readme-stats-sepia-ten-71.vercel.app/api/wakatime?username=udlose&layout=compact)](https://wakatime.com/@udlose)-->
+<!--  [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5.svg)](https://wakatime.com/@udlose)-->
+  ![wakatime](https://wakatime.com/share/@udlose/c2f25a7b-6a10-427a-b260-bdcb985a7cc8.svg)
