@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - _Professionally_: Open to new opportunities as a Senior Software Engineer in the Microsoft stack.
   - _Personal side-projects_:
-    - [MermaidPad](https://github.com/udlose/MermaidPad/) A minimal cross-platform-ready Mermaid diagram editor built with .NET 9 + Avalonia.
-    - [xml-equivalence](https://github.com/udlose/xml-equivalency/) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
-    - [pool-tracker](https://github.com/Black-Box-Solutions/pool-tracker): a cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
+    - ![Static Badge](https://img.shields.io/badge/github-mermaidpad-purple?logo=github&link=https%3A%2F%2Fgithub.com%2Fudlose%2FMermaidPad) A cross-platform-ready Mermaid diagram editor built with .NET 9 + Avalonia.
+    - ![Static Badge](https://img.shields.io/badge/github-xmlequivalency-yellow?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fudlose%2Fxml-equivalency) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
+    - ![Static Badge](https://img.shields.io/badge/github-pooltracker-brightgreen?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FBlack-Box-Solutions%2Fpool-tracker) A cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
 - [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET (when I find time)
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
 - [![Holopin.io](https://custom-icon-badges.demolab.com/badge/holopin.io-blue.svg?logo=holopin&logoColor=white)](https://holopin.io/@udlose)
