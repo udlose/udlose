@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   ![Application Scalability](https://img.shields.io/badge/Application_Scalability-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
   ## Languages and Tools
+  ![AXAML](https://img.shields.io/badge/AXAML-avalonia?logo=avaloniaui&link=https%3A%2F%2Favaloniaui.net%2F)
   ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -61,18 +62,15 @@ Here are some ideas to get you started:
   ![YAML](https://img.shields.io/badge/YAML-1F425F?style=flat&logo=yaml&logoColor=white)
   
   ## Frameworks and Libraries
+  ![Static Badge](https://img.shields.io/badge/AvaloniaUI-avalonia?logo=avaloniaui&link=https%3A%2F%2Favaloniaui.net%2F)
   ![Common Language Runtime](https://img.shields.io/badge/CLR-512BD4?style=flat&logo=.net&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
-  ![.NET Runtime](https://img.shields.io/badge/.NET_Runtime-512BD4?style=flat&logo=.net&logoColor=white)
-  ![.NET SDK](https://img.shields.io/badge/.NET_SDK-512BD4?style=flat&logo=.net&logoColor=white)
+  ![Runtime](https://img.shields.io/badge/Runtime-512BD4?style=flat&logo=.net&logoColor=white)
+  ![SDK](https://img.shields.io/badge/SDK-512BD4?style=flat&logo=.net&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
   ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=.net&logoColor=white)
   ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=.net&logoColor=white)
-  ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=.net&logoColor=white)
+  ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=.net&logoColor=white)
   ![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=flat&logo=.net&logoColor=white)
-  ![WinUI](https://img.shields.io/badge/WinUI-512BD4?style=flat&logo=.net&logoColor=white)
-  ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white)
-  ![UWP](https://img.shields.io/badge/UWP-512BD4?style=flat&logo=.net&logoColor=white)
   ![Polly](https://img.shields.io/badge/Polly-512BD4?style=flat&logo=.net&logoColor=white)
 
   ## Databases
@@ -101,7 +99,7 @@ Here are some ideas to get you started:
   ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
   ![Snyk](https://img.shields.io/badge/Snyk-4E9BCD?style=flat&logo=snyk&logoColor=white)
   ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-  ![Windbg](https://img.shields.io/badge/Windbg-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Windbg](https://img.shields.io/badge/Windbg-CCE08C?style=flat&logo=visual-studio&logoColor=white)
   ![XPerf](https://img.shields.io/badge/XPerf-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 <!--  [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats#gh-dark-mode-only)
