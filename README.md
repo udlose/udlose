@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     - [![Static Badge](https://img.shields.io/badge/github-pooltracker-brightgreen?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FBlack-Box-Solutions%2Fpool-tracker)](https://github.com/Black-Box-Solutions/pool-tracker) A cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
 - [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET (when I find time)
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
+- [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5.svg)](https://wakatime.com/@44381af9-1d52-4af7-be1a-23953d779df5)
 - [![Holopin.io](https://custom-icon-badges.demolab.com/badge/holopin.io-blue.svg?logo=holopin&logoColor=white)](https://holopin.io/@udlose)
 - Holopin.io Profile: [![An image of @udlose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udlose)](https://holopin.io/@udlose)
 - ⚡ Fun facts:
