@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Dave 👋
 - 🔭 I’m currently working on:
-  - _Professionally_: Open to new opportunities as a Senior Software Engineer in the Microsoft stack.
+  - _Professionally_: Open to new opportunities as a .NET Performance Architect in the Microsoft stack.
   - _Personal side-projects_:
     - [![Static Badge](https://img.shields.io/badge/github-mermaidpad-purple?logo=github&link=https%3A%2F%2Fgithub.com%2Fudlose%2FMermaidPad)](https://github.com/udlose/MermaidPad) A cross-platform-ready Mermaid diagram editor built with .NET 9 + Avalonia.
     - [![Static Badge](https://img.shields.io/badge/github-xmlequivalency-yellow?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fudlose%2Fxml-equivalency)](https://github.com/udlose/xml-equivalency) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
   ![Syncfusion](https://img.shields.io/badge/Syncfusion-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
   ![Snyk](https://img.shields.io/badge/Snyk-4E9BCD?style=flat&logo=snyk&logoColor=white)
-  ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Visual Studio 2026](https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Windbg](https://img.shields.io/badge/Windbg-CCE08C?style=flat&logo=visual-studio&logoColor=white)
   ![XPerf](https://img.shields.io/badge/XPerf-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
@@ -101,8 +101,8 @@ Here are some ideas to get you started:
   [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=light#gh-light-mode-only)](https://github.com/udlose/github-readme-stats#gh-light-mode-only)
 -->
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/udlose?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-  [![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267)
-
+  [![GitHub Streak](https://github-readme-streak-stats-gilt-seven.vercel.app?user=udlose&theme=microsoft-dark)](https://git.io/streak-stats)
+  
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Mocking HttpClient in Unit Tests](http://dave-black.blogspot.com/2025/02/mocking-httpclient-in-unit-tests.html)
@@ -120,8 +120,10 @@ Here are some ideas to get you started:
 - [Answer by Dave Black for c# linq xml how to use two prefixes for same namespace](https://stackoverflow.com/questions/5846201/c-sharp-linq-xml-how-to-use-two-prefixes-for-same-namespace/79353317#79353317)
 - [Answer by Dave Black for is there CLR profiler for .NET 4.0 around?](https://stackoverflow.com/questions/4351391/is-there-clr-profiler-for-net-4-0-around/79306436#79306436)
 <!-- STACKOVERFLOW:END -->
+[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267)
 
-  ## Wakatime
+## Wakatime
 <!--  [![wakatime](https://github-readme-stats-sepia-ten-71.vercel.app/api/wakatime?username=udlose&layout=compact)](https://wakatime.com/@udlose)-->
 <!--  [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5.svg)](https://wakatime.com/@udlose)-->
-  ![wakatime](https://wakatime.com/share/@udlose/c2f25a7b-6a10-427a-b260-bdcb985a7cc8.svg)
+<!-- ![Languages over All Time](https://wakatime.com/share/@udlose/c2f25a7b-6a10-427a-b260-bdcb985a7cc8.svg)-->
+![Coding Activity over Last Year](https://wakatime.com/share/@udlose/380606b4-0b05-4368-89a2-d89716ea5c0d.svg)
