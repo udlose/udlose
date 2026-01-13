@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 - [![Holopin.io](https://custom-icon-badges.demolab.com/badge/holopin.io-blue.svg?logo=holopin&logoColor=white)](https://holopin.io/@udlose)
 - Holopin.io Profile: [![An image of @udlose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udlose)](https://holopin.io/@udlose)
 - ⚡ Fun facts:
-  - I love writing code because I'm constantly learning
+  -  I love writing code because I'm constantly learning
   - I try to challenge myself by stepping outside my comfort zone
-  - I've climbed Mt. Kilimanjaro
-  - I've been a DJ "hot-mixing" in night clubs
-  - I used to drag race my 625hp Mitsubishi 3000GT VR4
+  - ⛰️ I've climbed Mt. Kilimanjaro
+  - 🎧 I've been a DJ "hot-mixing" in night clubs
+  - 🏎️ I used to drag race my 625hp Mitsubishi 3000GT VR4
 
 <!--  ## Top Languages
   [![Top Langs](https://github-readme-stats-sepia-ten-71.vercel.app/api/top-langs?username=udlose&layout=compact&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats#gh-dark-mode-only)
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
   ## Specialties
   ![Memory Dump Analysis](https://img.shields.io/badge/Memory_Dump_Analysis-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-  ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-  ![Debugging](https://img.shields.io/badge/Debugging-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Application Scalability](https://img.shields.io/badge/Application_Scalability-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
@@ -59,8 +57,7 @@ Here are some ideas to get you started:
   
   ## Frameworks and Libraries
   ![Static Badge](https://img.shields.io/badge/AvaloniaUI-avalonia?logo=avaloniaui&link=https%3A%2F%2Favaloniaui.net%2F)
-  ![Common Language Runtime](https://img.shields.io/badge/CLR-512BD4?style=flat&logo=.net&logoColor=white)
-  ![Runtime](https://img.shields.io/badge/Runtime-512BD4?style=flat&logo=.net&logoColor=white)
+  ![CLR](https://img.shields.io/badge/Runtime-512BD4?style=flat&logo=.net&logoColor=white)
   ![SDK](https://img.shields.io/badge/SDK-512BD4?style=flat&logo=.net&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
   ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=.net&logoColor=white)
@@ -70,21 +67,21 @@ Here are some ideas to get you started:
   ![Polly](https://img.shields.io/badge/Polly-512BD4?style=flat&logo=.net&logoColor=white)
 
   ## Databases
+  ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-  ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
+  
   ## Cloud Services
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=azure-devops&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-  
+
+  <!--
   ## Tooling
   ![CLI](https://img.shields.io/badge/.NET_CLI-512BD4?style=flat&logo=.net&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
@@ -97,13 +94,16 @@ Here are some ideas to get you started:
   ![Visual Studio 2026](https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Windbg](https://img.shields.io/badge/Windbg-CCE08C?style=flat&logo=visual-studio&logoColor=white)
   ![XPerf](https://img.shields.io/badge/XPerf-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  -->
 
-<!--  [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats#gh-dark-mode-only)
+<!--
+  [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats#gh-dark-mode-only)
   [![udlose's GitHub Stats](https://github-readme-stats-sepia-ten-71.vercel.app/api?username=udlose&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=light#gh-light-mode-only)](https://github.com/udlose/github-readme-stats#gh-light-mode-only)
 -->
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/udlose?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<!--  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/udlose?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card) -->
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=udlose&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=udlose&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)
   [![GitHub Streak](https://github-readme-streak-stats-gilt-seven.vercel.app?user=udlose&theme=microsoft-dark)](https://git.io/streak-stats)
-  
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Mocking HttpClient in Unit Tests](http://dave-black.blogspot.com/2025/02/mocking-httpclient-in-unit-tests.html)
