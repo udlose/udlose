@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mocking HttpClient in Unit Tests](http://dave-black.blogspot.com/2025/02/mocking-httpclient-in-unit-tests.html)
-- [Benchmark to measure performance difference between calling overridden methods on: open vs sealed classes](https://gist.github.com/udlose/712f7c157e10c742d870934bba53c2a3)
-- [.NET 9.0 Debugging Issue - F10 Step Over executes multiple steps](http://dave-black.blogspot.com/2025/01/net-90-debugging-issue-f10-step-over.html)
-- [What is LINQ to Xml Atomization?](http://dave-black.blogspot.com/2025/01/what-is-linq-to-xml-atomization.html)
-- [Linq to Xml - XName Atomization Benchmark](https://gist.github.com/udlose/1a5b0338c5fa4e83ec71fb22197396cf)
+- [ArrayList_foreach_object_vs_specific_type_ReferenceType_Benchmarks](https://gist.github.com/udlose/53ff58f81f99540c2fe4ed5debc4763c)
+- [.NET Benchmark for comparing iteration using foreach over ArrayList vs List&lt;T&gt; containing Reference Type](https://gist.github.com/udlose/157594d3aa585ccd780d270f9e750883)
+- [.NET Benchmark and Results for comparing iteration using foreach over ArrayList vs List&lt;T&gt; containing Value Type](https://gist.github.com/udlose/d19e3abbf421522e5276f915c3ac9492)
+- [.NET Benchmark and Results for comparing iteration using foreach vs for over ArrayList containing Reference Type](https://gist.github.com/udlose/fe2a25d05b7f2eadee25fb70d9946df7)
+- [.NET Benchmark and Results for comparing iteration using foreach vs for over ArrayList containing Value Type](https://gist.github.com/udlose/1b530009e8487c727dc3a2193c5f090a)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
