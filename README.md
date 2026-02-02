@@ -123,8 +123,8 @@ Here are some ideas to get you started:
 <!-- STACKOVERFLOW:END -->
 [![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267)
 
-## Wakatime
+<!-- ## Wakatime -->
 <!--  [![wakatime](https://github-readme-stats-sepia-ten-71.vercel.app/api/wakatime?username=udlose&layout=compact)](https://wakatime.com/@udlose)-->
 <!--  [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5.svg)](https://wakatime.com/@udlose)-->
 <!-- ![Languages over All Time](https://wakatime.com/share/@udlose/c2f25a7b-6a10-427a-b260-bdcb985a7cc8.svg)-->
-![Coding Activity over Last Year](https://wakatime.com/share/@udlose/380606b4-0b05-4368-89a2-d89716ea5c0d.svg)
+<!-- ![Coding Activity over Last Year](https://wakatime.com/share/@udlose/380606b4-0b05-4368-89a2-d89716ea5c0d.svg) -->
