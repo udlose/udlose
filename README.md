@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dictionary Lookup Hit vs Miss for Guid vs string](https://gist.github.com/udlose/1b1e8947ba53bfbb595550275a4efaef)
+- [Dictionary Add with key of type Guid vs string](https://gist.github.com/udlose/180ca444ac0de69c0703a40be06fd212)
 - [ArrayList_foreach_object_vs_specific_type_ReferenceType_Benchmarks](https://gist.github.com/udlose/53ff58f81f99540c2fe4ed5debc4763c)
 - [.NET Benchmark for comparing iteration using foreach over ArrayList vs List&lt;T&gt; containing Reference Type](https://gist.github.com/udlose/157594d3aa585ccd780d270f9e750883)
 - [.NET Benchmark and Results for comparing iteration using foreach over ArrayList vs List&lt;T&gt; containing Value Type](https://gist.github.com/udlose/d19e3abbf421522e5276f915c3ac9492)
-- [.NET Benchmark and Results for comparing iteration using foreach vs for over ArrayList containing Reference Type](https://gist.github.com/udlose/fe2a25d05b7f2eadee25fb70d9946df7)
-- [.NET Benchmark and Results for comparing iteration using foreach vs for over ArrayList containing Value Type](https://gist.github.com/udlose/1b530009e8487c727dc3a2193c5f090a)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
