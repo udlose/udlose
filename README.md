@@ -21,6 +21,14 @@ Here are some ideas to get you started:
     - [![Static Badge](https://img.shields.io/badge/github-mermaidpad-purple?logo=github&link=https%3A%2F%2Fgithub.com%2Fudlose%2FMermaidPad)](https://github.com/udlose/MermaidPad) A cross-platform-ready Mermaid diagram editor built with .NET 9 + Avalonia.
     - [![Static Badge](https://img.shields.io/badge/github-xmlequivalency-yellow?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fudlose%2Fxml-equivalency)](https://github.com/udlose/xml-equivalency) .NET Nuget Package to perform XML Normalization, Canonicalization, and Semantic Equivalence (*coming soon*)
     - [![Static Badge](https://img.shields.io/badge/github-pooltracker-brightgreen?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FBlack-Box-Solutions%2Fpool-tracker)](https://github.com/Black-Box-Solutions/pool-tracker) A cross-platform mobile app to track pool chemistry built using .NET MAUI 9 (*coming soon*)
+    - Some of the OSS Contributions I've made:
+       - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore/contributors): [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5/project/42caf8a1-d81a-4aa6-93de-790c935dd33e.svg)](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5/project/42caf8a1-d81a-4aa6-93de-790c935dd33e) <!--[![wakatime](https://wakatime.com/badge/github/udlose/aspnetcore.svg)](https://wakatime.com/badge/github/udlose/aspnetcore)-->
+       - [danipen/TextMateSharp](https://github.com/danipen/TextMateSharp/graphs/contributors): [![wakatime](https://wakatime.com/badge/github/udlose/TextMateSharp.svg)](https://wakatime.com/badge/github/udlose/TextMateSharp)
+       - [AvaloniaUI/AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/graphs/contributors): [![wakatime](https://wakatime.com/badge/github/udlose/AvaloniaEdit.svg)](https://wakatime.com/badge/github/udlose/AvaloniaEdit)
+       - [LitJSON/litjson](https://github.com/LitJSON/litjson/graphs/contributors)
+       - [aws/aws-xray-sdk-dotnet](https://github.com/aws/aws-xray-sdk-dotnet/graphs/contributors)
+       - [App-vNext/Polly.Caching.Serialization.System.Text.Json](https://github.com/App-vNext/Polly.Caching.Serialization.System.Text.Json)
+       - [structuremap/structuremap](https://github.com/structuremap/structuremap/graphs/contributors)
 - [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET (when I find time)
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
 - [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5.svg)](https://wakatime.com/@udlose)
