@@ -114,11 +114,11 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SpanIndexOfBenchmark](https://gist.github.com/udlose/426efbfb1fc36d620e589b804e89c88a)
 - [Benchmark comparing for vs foreach on List&lt;int&gt; using .NET 10 x64 vs .NET Framework 4.8.1 x64 RyuJIT vs .NET Framework 4.8.1 x86 LegacyJIT](https://gist.github.com/udlose/9c6b91a8fb16a68a683c7cb6960d2d6a)
 - [Dictionary Lookup Hit vs Miss for Guid vs string](https://gist.github.com/udlose/1b1e8947ba53bfbb595550275a4efaef)
 - [Dictionary Add with key of type Guid vs string](https://gist.github.com/udlose/180ca444ac0de69c0703a40be06fd212)
 - [ArrayList_foreach_object_vs_specific_type_ReferenceType_Benchmarks](https://gist.github.com/udlose/53ff58f81f99540c2fe4ed5debc4763c)
-- [.NET Benchmark for comparing iteration using foreach over ArrayList vs List&lt;T&gt; containing Reference Type](https://gist.github.com/udlose/157594d3aa585ccd780d270f9e750883)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
