@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Dave 👋
-- 🔭 I’m currently working on:
+# Hi there, I'm Dave 👋
+
+## ⚡ Fun facts:
+   -  I love writing code because I'm constantly learning
+   -  I try to challenge myself by stepping outside my comfort zone
+   - ⛰️ I've climbed Mt. Kilimanjaro
+   - 🎧 I've been a DJ "hot-mixing" in night clubs
+   - 🏎️ I used to drag race my 625hp Mitsubishi 3000GT VR4
+
+## 🔭 I’m currently working on:
   - _Professionally_: Open to new opportunities as a .NET Performance Architect in the Microsoft stack.
   - _Personal side-projects_:
     - [![Static Badge](https://img.shields.io/badge/github-mermaidpad-purple?logo=github&link=https%3A%2F%2Fgithub.com%2Fudlose%2FMermaidPad)](https://github.com/udlose/MermaidPad) A cross-platform-ready Mermaid diagram editor built with .NET 9 + Avalonia.
@@ -28,18 +36,32 @@ Here are some ideas to get you started:
        - [LitJSON/litjson](https://github.com/LitJSON/litjson/graphs/contributors)
        - [aws/aws-xray-sdk-dotnet](https://github.com/aws/aws-xray-sdk-dotnet/graphs/contributors)
        - [App-vNext/Polly.Caching.Serialization.System.Text.Json](https://github.com/App-vNext/Polly.Caching.Serialization.System.Text.Json)
-       - [structuremap/structuremap](https://github.com/structuremap/structuremap/graphs/contributors)
+       - [structuremap/structuremap](https://github.com/structuremap/structuremap/graphs/contributors)         
 - [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET (when I find time)
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
 - [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5.svg)](https://wakatime.com/@udlose)
-- [![Holopin.io](https://custom-icon-badges.demolab.com/badge/holopin.io-blue.svg?logo=holopin&logoColor=white)](https://holopin.io/@udlose)
-- Holopin.io Profile: [![An image of @udlose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udlose)](https://holopin.io/@udlose)
-- ⚡ Fun facts:
-  -  I love writing code because I'm constantly learning
-  - I try to challenge myself by stepping outside my comfort zone
-  - ⛰️ I've climbed Mt. Kilimanjaro
-  - 🎧 I've been a DJ "hot-mixing" in night clubs
-  - 🏎️ I used to drag race my 625hp Mitsubishi 3000GT VR4
+- [![Holopin.io](https://custom-icon-badges.demolab.com/badge/holopin.io-blue.svg?logo=holopin&logoColor=white)](https://holopin.io/@udlose)[![An image of @udlose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udlose)](https://holopin.io/@udlose)
+
+
+## StackOverflow Activity
+[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267)
+<!-- STACKOVERFLOW:START -->
+  - [Answer by Dave Black for Search or List all open PRs across multiple specific repositories](https://stackoverflow.com/questions/52045709/search-or-list-all-open-prs-across-multiple-specific-repositories/79590967#79590967)
+  - [Answer by Dave Black for XML Canonicalization lexicographical ordering](https://stackoverflow.com/questions/38769644/xml-canonicalization-lexicographical-ordering/79446723#79446723)
+  - [Canonical XML 2.0 with Namespace PrefixRewrite](https://stackoverflow.com/questions/79446392/canonical-xml-2-0-with-namespace-prefixrewrite)
+  - [Answer by Dave Black for c# linq xml how to use two prefixes for same namespace](https://stackoverflow.com/questions/5846201/c-sharp-linq-xml-how-to-use-two-prefixes-for-same-namespace/79353317#79353317)
+  - [Answer by Dave Black for is there CLR profiler for .NET 4.0 around?](https://stackoverflow.com/questions/4351391/is-there-clr-profiler-for-net-4-0-around/79306436#79306436)
+<!-- STACKOVERFLOW:END -->
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [SpanIndexOfBenchmark](https://gist.github.com/udlose/426efbfb1fc36d620e589b804e89c88a)
+- [Benchmark comparing for vs foreach on List&lt;int&gt; using .NET 10 x64 vs .NET Framework 4.8.1 x64 RyuJIT vs .NET Framework 4.8.1 x86 LegacyJIT](https://gist.github.com/udlose/9c6b91a8fb16a68a683c7cb6960d2d6a)
+- [Dictionary Lookup Hit vs Miss for Guid vs string](https://gist.github.com/udlose/1b1e8947ba53bfbb595550275a4efaef)
+- [Dictionary Add with key of type Guid vs string](https://gist.github.com/udlose/180ca444ac0de69c0703a40be06fd212)
+- [ArrayList_foreach_object_vs_specific_type_ReferenceType_Benchmarks](https://gist.github.com/udlose/53ff58f81f99540c2fe4ed5debc4763c)
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--  ## Top Languages
   [![Top Langs](https://github-readme-stats-sepia-ten-71.vercel.app/api/top-langs?username=udlose&layout=compact&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only)](https://github.com/udlose/github-readme-stats#gh-dark-mode-only)
@@ -112,24 +134,6 @@ Here are some ideas to get you started:
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=udlose&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=udlose&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)
   [![GitHub Streak](https://github-readme-streak-stats-gilt-seven.vercel.app?user=udlose&theme=microsoft-dark)](https://git.io/streak-stats)
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [SpanIndexOfBenchmark](https://gist.github.com/udlose/426efbfb1fc36d620e589b804e89c88a)
-- [Benchmark comparing for vs foreach on List&lt;int&gt; using .NET 10 x64 vs .NET Framework 4.8.1 x64 RyuJIT vs .NET Framework 4.8.1 x86 LegacyJIT](https://gist.github.com/udlose/9c6b91a8fb16a68a683c7cb6960d2d6a)
-- [Dictionary Lookup Hit vs Miss for Guid vs string](https://gist.github.com/udlose/1b1e8947ba53bfbb595550275a4efaef)
-- [Dictionary Add with key of type Guid vs string](https://gist.github.com/udlose/180ca444ac0de69c0703a40be06fd212)
-- [ArrayList_foreach_object_vs_specific_type_ReferenceType_Benchmarks](https://gist.github.com/udlose/53ff58f81f99540c2fe4ed5debc4763c)
-<!-- BLOG-POST-LIST:END -->
-
-## StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by Dave Black for Search or List all open PRs across multiple specific repositories](https://stackoverflow.com/questions/52045709/search-or-list-all-open-prs-across-multiple-specific-repositories/79590967#79590967)
-- [Answer by Dave Black for XML Canonicalization lexicographical ordering](https://stackoverflow.com/questions/38769644/xml-canonicalization-lexicographical-ordering/79446723#79446723)
-- [Canonical XML 2.0 with Namespace PrefixRewrite](https://stackoverflow.com/questions/79446392/canonical-xml-2-0-with-namespace-prefixrewrite)
-- [Answer by Dave Black for c# linq xml how to use two prefixes for same namespace](https://stackoverflow.com/questions/5846201/c-sharp-linq-xml-how-to-use-two-prefixes-for-same-namespace/79353317#79353317)
-- [Answer by Dave Black for is there CLR profiler for .NET 4.0 around?](https://stackoverflow.com/questions/4351391/is-there-clr-profiler-for-net-4-0-around/79306436#79306436)
-<!-- STACKOVERFLOW:END -->
-[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=251267&theme=dark&layout=compact)](https://stackoverflow.com/users/251267)
 
 <!-- ## Wakatime -->
 <!--  [![wakatime](https://github-readme-stats-sepia-ten-71.vercel.app/api/wakatime?username=udlose&layout=compact)](https://wakatime.com/@udlose)-->
