@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 # Hi there, I'm Dave 👋
 
 ## ⚡ Fun facts:
-   -  I love writing code because I'm constantly learning
-   -  I try to challenge myself by stepping outside my comfort zone
+   -  I love solving difficult problems
    - ⛰️ I've climbed Mt. Kilimanjaro
    - 🎧 I've been a DJ "hot-mixing" in night clubs
    - 🏎️ I used to drag race my 625hp Mitsubishi 3000GT VR4
+   - My favorite Career Highlight: I spent 3 Black Fridays at Dell helping improving scalability and perforamnce on apps that handled thousands of requests/sec.
 
 ## 🔭 I’m currently working on:
   - _Professionally_: Open to new opportunities as a .NET Performance Architect in the Microsoft stack.
