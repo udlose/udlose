@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://dave-black.blogspot.com) I write about C#, Programming, Design, Architecture, and the internals of Microsoft .NET (when I find time)
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/daveblack)
 - [![wakatime](https://wakatime.com/badge/user/44381af9-1d52-4af7-be1a-23953d779df5.svg)](https://wakatime.com/@udlose)
-- [![Holopin.io](https://custom-icon-badges.demolab.com/badge/holopin.io-blue.svg?logo=holopin&logoColor=white)](https://holopin.io/@udlose)[![An image of @udlose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udlose)](https://holopin.io/@udlose)
+- Hacktoberfest 2025 - [![Holopin.io](https://custom-icon-badges.demolab.com/badge/holopin.io-blue.svg?logo=holopin&logoColor=white)](https://holopin.io/@udlose)[![An image of @udlose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udlose)](https://holopin.io/@udlose)
 
 
 ## StackOverflow Activity
